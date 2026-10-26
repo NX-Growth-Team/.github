@@ -34,7 +34,9 @@ Growth is rarely one big idea. It is a steady loop of asking a clear question, i
 
 ## Projects
 
-Most of our repositories are private while they are under active development. Our work falls into three groups:
+- **[nx-web](https://github.com/NX-Growth-Team/nx-web)** — the standalone frontend behind [nxgrowth.ai](https://www.nxgrowth.ai/): plain HTML, CSS, and JavaScript with no runtime dependencies and no build step.
+
+Most of our other repositories are private while they are under active development. Our work falls into three groups:
 
 - **Growth platforms** — referral and lifecycle systems with segmentation, campaign tooling, and reconciliation.
 - **AI-assisted operations** — internal agents and workflows that sit directly next to real business data.
