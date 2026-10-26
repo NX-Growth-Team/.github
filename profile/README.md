@@ -44,7 +44,8 @@ If you would like a walkthrough of any of these, get in touch.
 
 ## Get in touch
 
+- **Website:** [nxgrowth.ai](https://www.nxgrowth.ai/)
+- **Email:** [hello@nx-growth.com](mailto:hello@nx-growth.com)
 - **Questions and collaboration:** open an issue in this [repository](https://github.com/NX-Growth-Team/.github/issues).
-- **Working with us:** send a short note through the same channel — what you build, and what you would like to learn next.
 
-<sub>NX Growth Team · GitHub organization profile</sub>
+<sub>NX Growth Team · San Francisco, CA</sub>
